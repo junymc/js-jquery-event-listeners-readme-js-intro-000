@@ -6,7 +6,7 @@ function getIt() {
 
 function framIt() {
   $('img').on("load", function() {
-    $('img').addClass("tasty")
+    addClass("tasty")
   })
 }//define functions here
 
