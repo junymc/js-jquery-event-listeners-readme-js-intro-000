@@ -25,7 +25,7 @@ function submitIt() {
 }//define functions here
 
 $(document).ready(function(){
- pressIt()
+ submitIt()
 
 // call functions here
 
