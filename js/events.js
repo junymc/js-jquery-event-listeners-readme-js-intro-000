@@ -25,7 +25,6 @@ function submitIt() {
 }//define functions here
 
 $(document).ready(function(){
- frameIt()
 
 // call functions here
 
