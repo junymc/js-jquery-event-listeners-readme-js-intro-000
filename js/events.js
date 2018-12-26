@@ -28,4 +28,4 @@ function submitIt() {
 
 // call functions here
 
-});
+// });
